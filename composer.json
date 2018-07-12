@@ -16,8 +16,7 @@
         }
     },
     "require": {
-        "php": ">=5.3",
-        "spatie/array-to-xml": "2.*",
-        "anlutro/curl" : "1.4.*"
+        "spatie/array-to-xml": "2.7.1",
+        "anlutro/curl" : "1.4.3"
     }
 }
