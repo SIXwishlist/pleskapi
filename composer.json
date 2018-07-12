@@ -1,0 +1,24 @@
+{
+    "name": "fkomaralp/pleskapi",
+    "description": "PleskAPI php kütüphanesi",
+    "license": "MIT",
+    "version": "1.2",
+
+    "authors": [
+        {
+            "name": "Fatih komaralp",
+            "email": "fkomaralp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fkomaralp\\PleskAPI\\" : "src/"
+        }
+    }
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3",
+        "spatie/array-to-xml": "2.*",
+        "anlutro/curl" : "1.4.*"
+    }
+}
