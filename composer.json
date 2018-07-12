@@ -3,7 +3,8 @@
     "description": "PleskAPI php kütüphanesi",
     "license": "MIT",
     "version": "dev",
-	"minimum-stability": "dev",
+"minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Fatih komaralp",
