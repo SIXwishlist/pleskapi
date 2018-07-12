@@ -2,6 +2,7 @@
     "name": "fkomaralp/pleskapi",
     "description": "PleskAPI php kütüphanesi",
     "license": "MIT",
+    "minimum-stability" : "dev",
     "authors": [
         {
             "name": "Fatih komaralp",
