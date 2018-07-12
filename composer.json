@@ -14,7 +14,7 @@
         "psr-4": {
             "Fkomaralp\\PleskAPI\\" : "src/"
         }
-    }
+    },
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3",
