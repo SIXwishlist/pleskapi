@@ -17,6 +17,6 @@
     },
     "require": {
         "spatie/array-to-xml": "^2.7",
-        "anlutro/curl" : "1.4"
+        "anlutro/curl" : "^1.4"
     }
 }
