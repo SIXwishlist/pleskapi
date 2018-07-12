@@ -15,7 +15,6 @@
             "Fkomaralp\\PleskAPI\\" : "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3",
         "spatie/array-to-xml": "2.*",
