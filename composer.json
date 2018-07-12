@@ -2,7 +2,8 @@
     "name": "fkomaralp/pleskapi",
     "description": "PleskAPI php kütüphanesi",
     "license": "MIT",
-    "minimum-stability" : "dev",
+    "version": "1.2",
+
     "authors": [
         {
             "name": "Fatih komaralp",
@@ -13,5 +14,9 @@
         "psr-4": {
             "Fkomaralp\\PleskAPI\\" : "src/"
         }
+    },
+    "require": {
+        "spatie/array-to-xml": "^2.7",
+        "anlutro/curl" : "1.4"
     }
 }
